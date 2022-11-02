@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @egetunc
-- 👀 I’m interested in software 
-- 🌱 I’m currently learning discord.js 
-- 💞️ I’m looking to collaborate on bots
+- 👀 I’m interested in software and programming
+- 🌱 I’m currently learning Python!
+- 💞️ I’m looking to developing cyber sec. systems and more!  
 - 📫 How to reach me discord = Ege#0026
 
 <!---
