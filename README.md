@@ -1,10 +1,8 @@
-
-
 <h2 align="center" style="color:#e63946;text-shadow: 3px 4px 4px rgba(205, 50, 70, 0.7);">Hello, I am Ege! 👋</h2>
 
 <div align="center">
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/:18758907042332673)](https://discord.com/users/:18758907042332673)
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/18758907042332673)](https://discord.com/users/18758907042332673)  
 
 </div>
 
@@ -20,7 +18,7 @@
 
 <details align="center">
   <summary style="font-weight: bold; font-size: 18px">GitHub Statistics</summary>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=flundar&theme=monokai&hide_border=true">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=egetunc&theme=monokai&hide_border=true">
 </details>
 
 <details align="center">
